@@ -2,11 +2,9 @@
 
 ## Beschreibung des Datensatzes
 
-Dieser Datensatz enthält Informationen zu Flughäfen weltweit. Sie ist als CSV Datei formatiert, und wird mittels Kommazeichen getrennt. Er umfasst über 80'000 Einträge mit 11 verschiedenen Feldern. Es umfasst diese Spalten:
+Dieser Datensatz enthält Informationen zu Flughäfen weltweit. Sie ist als CSV Datei formatiert, und wird mittels Kommazeichen getrennt. Er umfasst über 80'000 Einträge mit 10 verschiedenen Feldern. Es umfasst diese Spalten:
 
-- ident: Eine eindeutige Kennung für jeden Flughafen.
-
-- type: Der Typ des Flughafens (z. B. "small_airport", "heliport").
+- type: Der Typ des Flughafens.
 
 - name: Der Name des Flughafens.
 
@@ -16,17 +14,17 @@ Dieser Datensatz enthält Informationen zu Flughäfen weltweit. Sie ist als CSV 
 
 - iso_region: Die Region des Landes.
 
-- municipality: Die Stadt oder Gemeinde des Flughafens.
+- municipality: Die Stadt des Flughafens.
 
 - gps_code: Der GPS-Code des Flughafens.
 
-- iata_code: Der IATA-Code, falls vorhanden.
+- iata_code: Der IATA-Code.
 
 - local_code: Ein lokaler Code für den Flughafen.
 
 - coordinates: Breitengrad und Längengrad des Flughafens.
 
-Die folgenden Daten wurden wegen Redundanz gereinigt: iata_code, ident, gps_code, local_code und iso_region
+Die folgenden Daten wurden wegen Redundanz gereinigt: iata_code, gps_code, local_code und iso_region
 
 ## Datenschutz
 
