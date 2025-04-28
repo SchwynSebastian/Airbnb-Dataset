@@ -6,4 +6,4 @@ Dieser Datensatz enthält Angebote von Airbnb Unterkünften in New York City im 
 
 ## Datenschutz
 
-Der Datensatz enthält keine personenbezogenen oder sensiblen Daten im Sinne der DSGVO. Die enthaltenen Informationen sind öffentlich zugängliche Angaben über Immobilienangebote, die im Rahmen einer offenen Lizenz (CC BY 4.0) bereitgestellt wurden. Persönliche Kontaktdaten der Gastgeber sind nicht enthalten.
+Der Datensatz enthält keine personenbezogenen oder sensiblen Daten im Sinne der DSGVO. Die enthaltenen Informationen sind öffentlich zugängliche Angaben, die im Rahmen einer offenen Lizenz (CC BY 4.0) bereitgestellt wurden. Persönliche Kontaktdaten der Gastgeber sind nicht enthalten.
