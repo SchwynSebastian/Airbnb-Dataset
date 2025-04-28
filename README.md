@@ -2,10 +2,8 @@
 
 ## Beschreibung des Datensatzes
 
-Dieser Datensatz enthält weltweit Flughafendaten im CSV-Format mit über 80'000 Einträgen und 11 Feldern. Zu den Spalten gehören unter anderem die eindeutige Kennung für jeden Flughafen, Flughafenname, Typ, Höhe, Land, Stadt, GPS-Code, IATA-Code und Koordinaten. Einige Felder wie IATA-Code, GPS-Code, lokale Codes und die Region wurden aufgrund von Redundanz entfernt. Der Datensatz bietet eine eindeutige Kennung für jeden Flughafen und erfasst wichtige Standortinformationen.
-
-Die folgenden Daten wurden wegen Redundanz entfernt: iata_code, gps_code, local_code und iso_region
+Dieser Datensatz enthält Angebote von Airbnb-Unterkünften in New York City im CSV-Format mit mehreren tausend Einträgen und 16 Feldern. Zu den Spalten gehören unter anderem die Unterkunfts-ID, der Name der Unterkunft, Gastgeber-ID und Name, Stadtbezirk, Viertel, Breite und Länge (koordinaten), Unterkunftstyp, Preis pro Nacht, minimale Aufenthaltsdauer, Anzahl Bewertungen, Datum der letzten Bewertung, durchschnittliche Bewertungen pro Monat, Anzahl der vom Gastgeber angebotenen Unterkünfte und die Verfügbarkeit über das Jahr hinweg.
 
 ## Datenschutz
 
-Der Datensatz enthält keine personenbezogenen Daten, sondern ausschliesslich Informationen zu Flughäfen. Es gibt daher keine direkten Datenschutzbedenken. Die Daten stammen aus öffentlichen oder regulierten Quellen cc-by-4.0, wodurch sichergestellt wird, dass keine sensiblen Informationen verbreitet werden.
+Der Datensatz enthält keine personenbezogenen oder sensiblen Daten im Sinne der DSGVO. Die enthaltenen Informationen sind öffentlich zugängliche Angaben über Immobilienangebote, die im Rahmen einer offenen Lizenz (CC BY 4.0) bereitgestellt wurden. Persönliche Kontaktdaten der Gastgeber sind nicht enthalten.
